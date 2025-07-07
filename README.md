@@ -13,6 +13,7 @@ DURATION : 8 weeks
 MENTOR : NEELA SANTHOSH
 
 *DESCRIPTION OF THE TASK*
+
 Task 1: Build and Visualize a Decision Tree Model Using Scikit-learn
 
 As part of my Machine Learning internship at CodTech IT Solutions, I completed Task 1, which involved building and visualizing a Decision Tree Classifier using Scikit-learn, one of the most widely used Python libraries for machine learning. The primary goal of this task was to select a dataset, train a Decision Tree model on it, and provide clear visualizations and analysis to understand how the model classifies or predicts outcomes.
@@ -79,7 +80,7 @@ Displayed feature importance scores to understand which features the model relie
 Analyzed the tree splits to see how decisions were made.
 Observed how the model classified different species based on petal and sepal measurements.
 
-**Learning Outcomes
+**Learning Outcomes :
 
 Understood the concept of decision trees, how they recursively split data, and how overfitting can occur if the tree is too deep.
 
@@ -89,5 +90,6 @@ Gained practical experience in model training, testing, and evaluation using rea
 
 Learned how to interpret model outputs like feature importance and how they relate to predictions.
 
-Conclusion
+Conclusion :
+
 This task gave me hands-on experience with one of the foundational machine learning algorithms—Decision Trees. I gained valuable skills in data preprocessing, model building, and visualization. The ability to interpret and explain the decision-making process of the model was one of the key highlights of this task. It set a strong foundation for more complex models and future tasks in this internship.
